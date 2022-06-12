@@ -1,0 +1,2 @@
+### Spotify API Client ID on this line
+### Spotify APU Clent Secret on this line
