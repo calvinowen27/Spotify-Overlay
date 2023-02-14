@@ -1,5 +1,5 @@
 # Spotify-Overlay
-Application for creating an on-screen overlay for displaying information from and controlling spotify
+Application for creating an on-screen overlay for displaying information from and controlling spotify. It doesn't work over fullscreen applications. This application is not longer being developed and was only created as a short hobby project.
 
 # Usage
 In order to use this application you must have a spotify API client ID and secret. IT WILL NOT WORK WITHOUT THESE KEYS. The keys should be stored in
